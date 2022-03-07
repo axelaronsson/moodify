@@ -3,7 +3,7 @@
 
 An app that suggests songs depending on the values of a tracks so called "audio features" via the Spotify API.
 
-Live demo: https://moodify-200.herokuapp.com  Currently down! Will be up and running 1st of march again.
+Live demo: https://moodify-200.herokuapp.com
 
 ### Setup
 
